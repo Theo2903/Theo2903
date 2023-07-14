@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
 <h3 align="center">A passionate fullstack and native developer from Switzerland</h3>
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theo2903&label=Profile%20views&color=0e75b6&style=flat" alt="theo2903" /> </p>
 
 - 🔭 I’m currently working on **Medhub, a medical student project**
 
 - 🌱 I’m currently learning **React native, and be better at what i know**
+
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
